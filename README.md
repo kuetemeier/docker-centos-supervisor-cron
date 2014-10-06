@@ -1,8 +1,8 @@
-# Docker [jkuetemeier/centos-supervisor](https://registry.hub.docker.com/u/jkuetemeier/centos-supervisor/)
+# Docker [jkuetemeier/centos-supervisor-cron](https://registry.hub.docker.com/u/jkuetemeier/centos-supervisor-cron/)
 
 CentOS 7 Docker base image with Supervisor autoupdates and cron
 
-Docker Hub link: [https://registry.hub.docker.com/u/jkuetemeier/centos-supervisor/](https://registry.hub.docker.com/u/jkuetemeier/centos-supervisor/)
+Docker Hub link: [https://registry.hub.docker.com/u/jkuetemeier/centos-supervisor-cron/](https://registry.hub.docker.com/u/jkuetemeier/centos-supervisor-cron/)
 
 ## How to run
 
