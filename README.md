@@ -1,4 +1,10 @@
-# Docker [jkuetemeier/centos-supervisor-cron](https://registry.hub.docker.com/u/jkuetemeier/centos-supervisor-cron/)
+## Archived
+
+This project is archived.
+
+Meanwhile I would recommend you to use Docker in a completely different way. Have a look at https://wolfszwinkern.com to get the latest tips about Docker.
+
+# Docker [kuetemeier/centos-supervisor-cron](https://registry.hub.docker.com/u/kuetemeier/centos-supervisor-cron/)
 
 CentOS 7 Docker base image with Supervisor autoupdates and cron
 
@@ -25,7 +31,7 @@ Install `docker`, e.g. on CentOS: http://wiki.centos.org/Cloud/Docker
 
 ## What's in this container?
 
-This container is based on [jkuetemeier/centos-base](https://registry.hub.docker.com/u/jkuetemeier/centos-base/) - GitHub [https://github.com/jkuetemeier/docker-centos-base](https://github.com/jkuetemeier/docker-centos-base).
+This container is based on [kuetemeier/centos-base](https://registry.hub.docker.com/u/kuetemeier/centos-base/) - GitHub [https://github.com/kuetemeier/docker-centos-base](https://github.com/kuetemeier/docker-centos-base).
 
 ### This container include the following additional features
 
